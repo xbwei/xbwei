@@ -1,20 +1,32 @@
 ## Hi there 👋 I'm Xuebin!
 
-I am an Associate Professor in the Department of Integrated Science and Technology at James Madison University, specializing in social media analysis. I am also the founder of LBSocial LLC, where I focus on technical consulting and building EdTech solutions. 
+I am an Associate Professor in the **School of Integrated Sciences** at James Madison University and the founder of **LBSocial LLC**.
 
-My work sits at the intersection of data science, generative AI, and education. I'm highly passionate about "vibe coding," LLM orchestration, and building local-first, privacy-preserving AI architectures.
+My work sits at the intersection of data science, cloud computing, generative AI, and education. I am particularly interested in building practical AI applications, orchestrating LLM-powered workflows, and developing local-first, privacy-preserving AI architectures.
 
-### 🔭 What I'm currently working on
+### 🔭 What I'm Currently Working On
+
 * **AI4EduAfrica:** An ongoing initiative focused on AI-supported teaching in Tanzania.
-* **LBSocial:** Producing technical tutorials on my YouTube channel covering AI workflows, data pipelines, and cloud deployments.
-* **Local AI Agents:** Running and testing local LLMs and GraphRAG systems for educational data.
+* **LBSocial:** Creating technical tutorials and EdTech solutions involving AI workflows, data pipelines, and cloud deployments.
+* **Local AI Agents:** Running and testing local LLMs, automation workflows, and GraphRAG systems for educational applications.
 
-### 📚 Publications
-* Co-author of our textbook, **"Social Data Analytics in the Cloud with AI."** ### 🛠️ Tech Stack & Tools
-* **AI & Orchestration:** Gemini, n8n, OpenClaw, LLM Agents
-* **Data Engineering & Architecture:** MongoDB, Neo4j, Docker, Google Cloud, GraphRAG
-* **Development Paradigms:** Vibe Coding, Vibe Querying, Low-code/No-code workflows
+### 🚀 Featured Projects
 
-### 📫 Connect with me
-* **YouTube:** [LBSocial](https://www.youtube.com/@LBSocial) 
+* **[LBSocial GitHub Organization](https://github.com/lbsocial):** Open-source projects, tutorials, and technical experiments for AI-supported education and social data analytics.
+* More featured repositories coming soon.
+
+### 📚 Publication
+
+* Co-author of the textbook **[*Social Data Analytics in the Cloud with AI*](https://www.routledge.com/Social-Data-Analytics-in-the-Cloud-with-AI/Wei-Ye/p/book/9781032569062)**.
+
+### 🛠️ Tech Stack
+
+* **AI & Automation:** Gemini, local LLMs, n8n, OpenClaw, LLM agents
+* **Data & Knowledge Systems:** MongoDB, Neo4j, GraphRAG
+* **Cloud & Development:** Google Cloud, AWS, Docker, GitHub
+
+### 📫 Connect with Me
+
 * **Website:** [LBSocial LLC](https://www.lbsocial.net/)
+* **YouTube:** [LBSocial](https://www.youtube.com/@LBSocial)
+* **GitHub:** [LBSocial repositories](https://github.com/lbsocial)
